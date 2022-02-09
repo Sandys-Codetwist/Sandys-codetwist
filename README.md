@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Devarapogu Sandhya</h1>
 <h3 align="center">A passionate Python Developer</h3>
 
-<img align="right" width="700" src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966">
+<img align="right" width="400" src="https://camo.githubusercontent.com/ed6aee74b1b8c61b67dbbf50a6a8a0f1e9bcbea4e2db7eff11414aca35b028c0/68747470733a2f2f7374617469632e6472696262626c652e636f6d2f75736572732f313932303334382f73637265656e73686f74732f343333323634312f73686f7430392e676966">
 
 - 🔭 I’m currently working on **Data Science with Python,Machine Learning and Statistical Analysis**
 
